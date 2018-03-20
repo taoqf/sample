@@ -1,0 +1,24 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "sample project test ts bug",
+  "dependencies": {
+  },
+  "main": "./dist/main.js",
+  "homepage": "https://github.com/taoqf/",
+  "people fields": {
+    "author": {
+      "name": "taoqf",
+      "email": "tao_qiufeng@126.com",
+      "url": "https://github.com/taoqf/"
+    },
+    "contributors": []
+  },
+  "readme": "readme.md",
+  "scripts": {
+  },
+  "devDependencies": {
+    "typescript": "next",
+    "webpack-stream": "latest"
+  }
+}
